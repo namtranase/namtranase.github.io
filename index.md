@@ -1,61 +1,6 @@
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html><head><title>Truyen Tran (Trần Thế Truyền)</title>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<html><head><title>Nam Tran (Tran Duc Nam)</title>
 
 
 
@@ -103,14 +48,13 @@ text-align: left;
 <tbody>
 <tr>
 <td rowspan="2" v="" style="border-width: 1px; border-right: 1px solid; vertical-align: top; width: 172px;">
-<p align="right"><font size="5"><img style="border: 2px solid ; width: 172px; height: 215px;" alt="portrait" src="figs/13053_4806553394040_1532430269_n.jpg" hspace="0"></font></p>
+<p align="right"><font size="5"><img style="border: 2px solid ; width: 172px; height: 215px;" alt="portrait" src="figs/myimage.png" hspace="0"></font></p>
       
-      <p style="text-align: right;"><big><a href="http://scholar.google.com.au/citations?hl=en&amp;user=zvspVLwAAAAJ">Scholar
-profile</a> | <a href="http://truyentran.github.io/truyen_fullcv_CS.pdf">CV</a> |&nbsp; <a href="https://www.linkedin.com/in/truyen-tran/">LinkedIn</a>&nbsp;  <br>
-      <a href="http://letdataspeak.blogspot.com.au">Blog</a>&nbsp;  <br>
-      <a href="read.html">AI reading club</a>&nbsp; <br>
-      <a href="scholarship.html">Scholarships</a>&nbsp; <br>
-      <a href="https://truyentran.github.io/phd.html">Guides to PhD</a>&nbsp; </big><br>
+      </a> | <a href="http://namtranase.github.io/nam_tran_resume.pdf">CV</a> |&nbsp; <a href="https://www.linkedin.com/in/trannamvn/">LinkedIn</a>&nbsp;  <br>
+      <!-- <a href="http://letdataspeak.blogspot.com.au">Blog</a>&nbsp;  <br> -->
+      <a href="https://github.com/namtranase">GitHub</a>&nbsp; <br>
+      <!-- <a href="scholarship.html">Scholarships</a>&nbsp; <br> -->
+      
 <font size="5"><br>
       </font></p>
 
